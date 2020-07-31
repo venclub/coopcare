@@ -1118,13 +1118,18 @@ section.lazy-placeholder:after {
 .cid-s60g9fIq6u .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s5HmqEabOz {
+.cid-s6kBylX0hc {
   padding-top: 90px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/istock-1146473250-676x451.jpeg");
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-s5HmqEabOz H1 {
-  text-align: center;
+.cid-s6kycZGEK5 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s6kycZGEK5 P {
+  color: #767676;
 }
 .cid-s5HmvZH5wG {
   background: #cccccc;
